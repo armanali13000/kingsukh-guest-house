@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kingsukh-guest-house/static/css/main.99bf5d2f.css",
-    "main.js": "/kingsukh-guest-house/static/js/main.dea166ab.js",
+    "main.css": "/kingsukh-guest-house/static/css/main.af90751e.css",
+    "main.js": "/kingsukh-guest-house/static/js/main.f54ddc0d.js",
     "static/media/Mountain video.mp4": "/kingsukh-guest-house/static/media/Mountain video.b21fd85922f02ca3204a.mp4",
     "static/media/palash.webp": "/kingsukh-guest-house/static/media/palash.f542206031da97c86d08.webp",
     "static/media/mithonDam.webp": "/kingsukh-guest-house/static/media/mithonDam.c652dcf8cb8fd3b68b44.webp",
@@ -15,11 +15,11 @@
     "static/media/mountain.jpg": "/kingsukh-guest-house/static/media/mountain.1e1bd91ff30d4f4e1dc4.jpg",
     "static/media/baranti.webp": "/kingsukh-guest-house/static/media/baranti.54745f305a8ffb080bf3.webp",
     "index.html": "/kingsukh-guest-house/index.html",
-    "main.99bf5d2f.css.map": "/kingsukh-guest-house/static/css/main.99bf5d2f.css.map",
-    "main.dea166ab.js.map": "/kingsukh-guest-house/static/js/main.dea166ab.js.map"
+    "main.af90751e.css.map": "/kingsukh-guest-house/static/css/main.af90751e.css.map",
+    "main.f54ddc0d.js.map": "/kingsukh-guest-house/static/js/main.f54ddc0d.js.map"
   },
   "entrypoints": [
-    "static/css/main.99bf5d2f.css",
-    "static/js/main.dea166ab.js"
+    "static/css/main.af90751e.css",
+    "static/js/main.f54ddc0d.js"
   ]
 }
