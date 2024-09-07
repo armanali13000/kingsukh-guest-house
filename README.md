@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+I am developing a fully responsive guest house web application using React. The app features modular, reusable components, ensuring a dynamic and seamless user experience across all devices. React's efficient state management and rendering deliver a modern, high-performance solution for guest house bookings and management.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
