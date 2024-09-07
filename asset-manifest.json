@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kingsukh-guest-house/static/css/main.af90751e.css",
-    "main.js": "/kingsukh-guest-house/static/js/main.f54ddc0d.js",
+    "main.js": "/kingsukh-guest-house/static/js/main.4953482a.js",
     "static/media/Mountain video.mp4": "/kingsukh-guest-house/static/media/Mountain video.b21fd85922f02ca3204a.mp4",
     "static/media/palash.webp": "/kingsukh-guest-house/static/media/palash.f542206031da97c86d08.webp",
     "static/media/mithonDam.webp": "/kingsukh-guest-house/static/media/mithonDam.c652dcf8cb8fd3b68b44.webp",
@@ -16,10 +16,10 @@
     "static/media/baranti.webp": "/kingsukh-guest-house/static/media/baranti.54745f305a8ffb080bf3.webp",
     "index.html": "/kingsukh-guest-house/index.html",
     "main.af90751e.css.map": "/kingsukh-guest-house/static/css/main.af90751e.css.map",
-    "main.f54ddc0d.js.map": "/kingsukh-guest-house/static/js/main.f54ddc0d.js.map"
+    "main.4953482a.js.map": "/kingsukh-guest-house/static/js/main.4953482a.js.map"
   },
   "entrypoints": [
     "static/css/main.af90751e.css",
-    "static/js/main.f54ddc0d.js"
+    "static/js/main.4953482a.js"
   ]
 }
