@@ -28,13 +28,13 @@ const Location = () => {
                     
                     <div className='information'>
                             <div className='info'>
-                                <h2 data-aos='fade-right' data-aos-duration='2000'>5.4 <span>km</span></h2>
-                                <p data-aos='fade-up' data-aos-duration='3000'>Away from the Town hall</p>
+                                <h2 data-aos='zoom-in' data-aos-duration='500'>5.4 <span>km</span></h2>
+                                <p data-aos='fade-up' data-aos-duration='500'>Away from the Town hall</p>
                             </div>
 
                             <div className='info'>
-                                <h2 data-aos='fade-left' data-aos-duration='2500'>18 <span>km</span></h2>
-                                <p data-aos='fade-up' data-aos-duration='3500'>Away from the Airport</p>
+                                <h2 data-aos='zoom-in' data-aos-duration='500'>18 <span>km</span></h2>
+                                <p data-aos='fade-up' data-aos-duration='500'>Away from the Airport</p>
                             </div>
                     </div>
                 </div>

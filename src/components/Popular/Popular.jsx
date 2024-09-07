@@ -56,7 +56,7 @@ const Popular = () => {
 
   useEffect(()=>{
 
-    Aos.init({duration: 2000})
+    Aos.init({duration: 200})
 
   }, [])
 
@@ -68,7 +68,7 @@ const Popular = () => {
 
       <div className='secContainer'>
         <div className='secHeader flex'>
-          <div data-aos='fade-right' data-aos-duration='2500' className='textDiv'>
+          <div className='textDiv'>
             <h2 className='secTitle'>
               Popular Destination
             </h2>
@@ -77,7 +77,7 @@ const Popular = () => {
             </p>
           </div>
 
-          <div data-aos='fade-left' data-aos-duration='3000' className='iconsDiv flex'>
+          <div className='iconsDiv flex'>
           <FaArrowLeft className='icon leftIcon'/>
           <FaArrowRight className='icon'/>
           </div>

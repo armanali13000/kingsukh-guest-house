@@ -103,7 +103,7 @@
 @media screen and (min-width: 480px) {
   .home .secContainer .homeCard {
     bottom: -50px;
-    width: 90%;
+    width: 80%;
     grid-template-columns: repeat(2, 1fr);
   }
   .home .secContainer .homeCard .btn {
@@ -138,4 +138,5 @@
   .home .secContainer .homeCard {
     width: 70%;
   }
-}/*# sourceMappingURL=home.css.map */
+}
+/*# sourceMappingURL=home.css.map */

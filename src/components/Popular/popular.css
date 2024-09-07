@@ -11,7 +11,7 @@
 }
 
 .popular {
-  padding-top: 15rem;
+  padding-top: 10rem;
 }
 .popular .secContainer .secHeader {
   flex-direction: column;
@@ -117,6 +117,7 @@
   font-weight: 700;
   color: var(--blackColor);
   position: relative;
+  width: -webkit-max-content;
   width: -moz-max-content;
   width: max-content;
 }
@@ -154,7 +155,7 @@
 
 @media screen and (min-width: 480px) {
   .popular {
-    padding-top: 10rem;
+    padding-top: 6rem;
   }
 }
 @media screen and (min-width: 556px) {
@@ -179,7 +180,7 @@
 }
 @media screen and (min-width: 1024px) {
   .popular {
-    padding-top: 10rem;
+    padding-top: 6rem;
   }
   .popular .secContainer .secHeader .textDiv .secTitle {
     font-size: 2.2rem;
@@ -191,4 +192,5 @@
     grid-template-columns: repeat(4, 5fr);
     gap: 1.5rem !important;
   }
-}/*# sourceMappingURL=popular.css.map */
+}
+/*# sourceMappingURL=popular.css.map */

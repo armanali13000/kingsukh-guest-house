@@ -64,7 +64,7 @@ const About = () => {
           <div className='videoCard container'>
             <div className='cardContent grid'>
 
-              <div data-aos='fade-right' data-aos-duration='2000' className='cardText'>
+              <div data-aos='zoom-in' data-aos-duration='500' className='cardText'>
                 <h2>
                   Wonderful House experience 
                 </h2>
@@ -75,7 +75,7 @@ const About = () => {
                 </p>
               </div>
 
-              <div data-aos='fade-left' data-aos-duration='2000' className='cardVideo'>
+              <div data-aos='zoom-in' data-aos-duration='500' className='cardVideo'>
                 <video src={video} autoPlay loop muted type='video/mp4'></video>
               </div>
             </div>
